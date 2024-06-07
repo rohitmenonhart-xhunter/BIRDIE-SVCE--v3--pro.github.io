@@ -9,7 +9,7 @@ const FeatureSection = () => {
       
       <div className="flex justify-center items-center h-screen border-orange-400 rounded-md">
         <iframe
-          src="https://rohitmenonhart-xhunter.github.io/BIRDIE-SVCE.github.io/"
+          src="https://rohitmenonhart-xhunter.github.io/BIRDIE-V1-SVCE.github.io/"
           title="Example Website"
           style={{ width: '80%', height: '70vh', border: 'none rounded' }}   
           >
