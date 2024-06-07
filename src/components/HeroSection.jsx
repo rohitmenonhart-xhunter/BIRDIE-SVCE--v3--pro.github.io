@@ -32,7 +32,7 @@ const HeroSection = () => {
         Welcome to Birdi, your gateway to the mesmerizing world of avian melodies. Immerse yourself in the enchanting calls of birds from around the globe with just a tap. Our intuitive interface allows you to effortlessly explore and learn about diverse bird species, while each sound brings you closer to the heart of nature. Whether you're a seasoned birder or a curious novice, Birdi is your companion in discovering the beauty and significance of birds in our ecosystems. Join us in our mission to inspire conservation and appreciation for the natural world. Start your journey today with Birdi.
       </p>
       <div className="flex justify-center my-10">
-      <a href="https://rohitmenonhart-xhunter.github.io/BIRDIE-SVCE.github.io/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md">
+      <a href="https://rohitmenonhart-xhunter.github.io/BIRDIE-V1-SVCE.github.io/" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md">
   Visit website
       </a>
 
